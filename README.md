@@ -21,14 +21,10 @@ If you find this code useful in your research, please cite:
 	{Mahdi Arzani}, M. and {Yousefzadeh}, R. and {Van Gool}, L.},
     title = "{Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification}",
   journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
    eprint = {1711.08200},
  primaryClass = "cs.CV",
  keywords = {Computer Science - Computer Vision and Pattern Recognition},
      year = 2017,
-    month = nov,
-   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv171108200D},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 ```
